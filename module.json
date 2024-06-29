@@ -1,0 +1,152 @@
+{
+  "id": "ultima-forsan-compendium",
+  "title": "ultima-forsan-compendium",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "A complete compendium about the items, bestiary and equipment available in ultima forsan. Savage Worlds Adventure Edition is necessary in order to play with this items.",
+  "authors": [
+    {
+      "name": "Jeronimo Rodriguez",
+      "email": "jeropa.rol@gmail.com",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/jero-rodriguez/ultima-forsan-compendium",
+  "packs": [
+    {
+      "name": "uf-ancestries",
+      "label": "UF - Ancestries",
+      "path": "packs/uf-ancestries",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "swade",
+      "flags": {}
+    },
+    {
+      "name": "uf-armor",
+      "label": "UF - Armor",
+      "path": "packs/uf-armor",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "swade",
+      "flags": {}
+    },
+    {
+      "name": "uf-bestiary",
+      "label": "UF - Bestiary",
+      "path": "packs/uf-bestiary",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "swade",
+      "flags": {}
+    },
+    {
+      "name": "uf-edges",
+      "label": "UF - Edges",
+      "path": "packs/uf-edges",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "swade",
+      "flags": {}
+    },
+    {
+      "name": "uf-equipment",
+      "label": "UF - Equipment",
+      "path": "packs/uf-equipment",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "swade",
+      "flags": {}
+    },
+    {
+      "name": "uf-hindrances",
+      "label": "UF - Hindrances",
+      "path": "packs/uf-hindrances",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "swade",
+      "flags": {}
+    },
+    {
+      "name": "uf-powers",
+      "label": "UF - Powers",
+      "path": "packs/uf-powers",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "swade",
+      "flags": {}
+    },
+    {
+      "name": "uf-skills",
+      "label": "UF - Skills",
+      "path": "packs/uf-skills",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "swade",
+      "flags": {}
+    },
+    {
+      "name": "uf-special-abilities",
+      "label": "UF - Special Abilities",
+      "path": "packs/uf-special-abilities",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "swade",
+      "flags": {}
+    },
+    {
+      "name": "uf-tables",
+      "label": "UF - Tables",
+      "path": "packs/uf-tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "swade",
+      "flags": {}
+    },
+    {
+      "name": "uf-weapons",
+      "label": "UF - Weapons",
+      "path": "packs/uf-weapons",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "swade",
+      "flags": {}
+    }
+  ]
+}
