@@ -148,5 +148,6 @@
       "system": "swade",
       "flags": {}
     }
-  ]
+  ],
+  "manifest": "https://raw.githubusercontent.com/jero-rodriguez/ultima-forsan-compendium/main/module.json"
 }
