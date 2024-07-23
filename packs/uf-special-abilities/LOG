@@ -1,1 +1,5 @@
-2024/06/29-13:30:39.607 4a7c Delete type=3 #1
+2024/07/23-22:32:56.385 7aa4 Recovering log #3
+2024/07/23-22:32:56.385 7aa4 Level-0 table #5: started
+2024/07/23-22:32:56.387 7aa4 Level-0 table #5: 46367 bytes OK
+2024/07/23-22:32:56.390 7aa4 Delete type=0 #3
+2024/07/23-22:32:56.390 7aa4 Delete type=3 #2

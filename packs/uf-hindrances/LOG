@@ -1,1 +1,5 @@
-2024/06/29-13:30:39.577 861c Delete type=3 #1
+2024/07/23-22:32:56.355 7ff4 Recovering log #3
+2024/07/23-22:32:56.355 7ff4 Level-0 table #5: started
+2024/07/23-22:32:56.358 7ff4 Level-0 table #5: 48702 bytes OK
+2024/07/23-22:32:56.361 7ff4 Delete type=0 #3
+2024/07/23-22:32:56.361 7ff4 Delete type=3 #2

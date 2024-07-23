@@ -1,10 +1,10 @@
 {
   "id": "ultima-forsan-compendium",
   "title": "ultima-forsan-compendium",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "12"
   },
   "description": "A complete compendium about the items, bestiary and equipment available in ultima forsan. Savage Worlds Adventure Edition is necessary in order to play with this items.",
   "authors": [
